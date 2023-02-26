@@ -1,6 +1,6 @@
 # Custom swarm plot function
 
-##Situation: 
+##  Situation: 
 As part of my BS in Biomolecular Engineering and Bioinformatics, I took an upper-devision/graduate level data visualization class taught by Professor Christopher Vollmers. In this class we parsed through and visualized a variety of complex biological data using Python and Matplotlib. We were taught best practices when it comes to creating plots that are:
 1. Easy to read
 2. Easy to interpret
